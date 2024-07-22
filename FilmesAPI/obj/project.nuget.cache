@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXcQbdsp9RyN8rqVnG+X0FjT/c7ckKcL9wYs3Tr591c4WAIZMDWoL8CKKMF5RZSkgAO3n0TnsEkIrI/1Km4VSw==",
+  "success": true,
+  "projectFilePath": "/Users/davifsroberto/Development/PERSONAL/Studies/ASPNET/FilmesAPI/FilmesAPI/FilmesAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/davifsroberto/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/davifsroberto/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/davifsroberto/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/davifsroberto/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/davifsroberto/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/davifsroberto/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
