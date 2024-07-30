@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZPDJHll9lBo=",
+  "dgSpecHash": "hoD8f495BX4=",
   "success": true,
   "projectFilePath": "/Users/davifsroberto/Development/PERSONAL/Studies/ASPNET/FilmesAPI/FilmesAPI/FilmesAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/davifsroberto/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/davifsroberto/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/davifsroberto/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/davifsroberto/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/davifsroberto/.nuget/packages/microsoft.entityframeworkcore/6.0.10/microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "/Users/davifsroberto/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.10/microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "/Users/davifsroberto/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.10/microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
