@@ -45,4 +45,17 @@ public class FilmeController : ControllerBase
 
         return Ok(filme);
     }
+
+    [HttpPut("{id}")]
+    public IActionResult AtualizarFilme(int id, [FromBody] UpdateFilmeDto updateFilmeDto)
+    {
+        var filme = _filmeContext.Filmes.FirstOrDefault(filme => filme.Id == id);
+
+        if (filme == null) return NotFound();
+
+        _mapper.Map(updateFilmeDto, filme);
+        _filmeContext.SaveChanges();
+
+        return NoContent();
+    }
 }
