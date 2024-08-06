@@ -42,3 +42,7 @@
 /Users/davifsroberto/Development/PERSONAL/Studies/ASPNET/FilmesAPI/FilmesAPI/obj/Debug/net6.0/FilmesAPI.csproj.Up2Date
 /Users/davifsroberto/Development/PERSONAL/Studies/ASPNET/FilmesAPI/FilmesAPI/bin/Debug/net6.0/AutoMapper.dll
 /Users/davifsroberto/Development/PERSONAL/Studies/ASPNET/FilmesAPI/FilmesAPI/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/davifsroberto/Development/PERSONAL/Studies/ASPNET/FilmesAPI/FilmesAPI/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/davifsroberto/Development/PERSONAL/Studies/ASPNET/FilmesAPI/FilmesAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/davifsroberto/Development/PERSONAL/Studies/ASPNET/FilmesAPI/FilmesAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/davifsroberto/Development/PERSONAL/Studies/ASPNET/FilmesAPI/FilmesAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
